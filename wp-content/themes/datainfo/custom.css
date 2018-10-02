@@ -1,0 +1,382 @@
+.header-logo img{
+	max-width: 160px;
+}
+
+footer.main-footer.main-footer-3 .textwidget{
+	text-align: center;
+    color: #fff;
+}
+
+.main-footer {
+    background: #9c9c9c;
+}
+
+.copyright-3, .copyright {
+    background: #9c9c9c;
+}
+
+.copyright-3 .container .row-copyrights, .copyright .container .row-copyrights {
+    border-top: 1px solid #797979;
+}
+
+#menu-principal-1 .current-menu-item{
+    border-bottom: 2px solid #0C2C73;
+}
+
+#menu-principal-1 .menu-item{
+	margin-right: 10px;
+}
+
+.menu  li  a{
+	padding: 20px 10px 10px 10px;
+	font-size: 15px;
+	color: #656565;
+}
+
+.menu li.current-menu-item a{
+	color: #0C2C73!important;
+}
+
+.noticias_home{
+	border-bottom: 2px solid #0C2C73;
+	min-height: 120px;
+}
+
+.titulos_home{
+	background: #0C2C73;
+	    padding: 10px;
+}
+
+
+
+.eventos_home .evento_item{
+	padding: 10px;
+	border: 1px solid #ddd;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.evento_item .izquierda, .evento_item .derecha{
+	float: left;
+}
+
+
+.evento_item .izquierda{
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    padding-bottom: 10px;
+    margin-right: 20px;
+    padding-top: 15px;
+    background: url(http://datainfo.cl/monte/wp-content/uploads/2016/08/fondo-agenda.jpg);
+    background-size: 80px 80px;
+    background-repeat: no-repeat;
+}
+
+.evento_item .derecha{
+	width: 425px;
+}
+
+.evento_item .izquierda .evento_dia{
+	font-size: 40px;
+	line-height: 34px;
+}
+
+.evento_item .izquierda .evento_mes{
+	font-size: 12px;
+}
+
+.evento_item .derecha .uno{
+	float: left;
+    margin-right: 30px;
+}
+
+.evento_item .derecha .dos{
+	float: left;
+}
+
+.evento_item .derecha .tres{
+	margin-top: 5px;
+    font-size: 18px;
+}
+
+.evento_item .derecha .uno i{
+	color: #5d5d5d;
+    margin-right: 5px;
+}
+
+.evento_item .derecha .uno span{
+	color: #0C2C73;
+}
+
+
+.evento_item .derecha .dos i{
+	color: #848484;
+    margin-right: 5px;
+}
+
+.evento_item .derecha .dos span{
+	color: #0C2C73;
+}
+
+
+
+.galeria_home ul.wpb_images_grid_ul{
+	padding-left: 0px!important;
+}
+
+
+#recent-posts-2 ul li span{
+	display: block;
+    margin-top: 5px;
+}
+
+#recent-posts-2 ul li{
+	border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+#recent-posts-2 ul li a{
+	color: ##1C2874;
+	font-size: 15px;
+}
+
+
+.header.main-header{
+	border-bottom: 2px solid #0C2C73;
+}
+
+#recent-posts-2{
+	margin-top: 30px;
+}
+
+
+.blog-masonry.row.isotope{
+	margin-top: 30px;
+}
+
+.control_form input[type="text"], .control_form input[type="email"], .control_form textarea   {
+	width: 100%;
+}
+
+.control_form {
+	margin-bottom: 20px;
+}
+
+.control_form textarea {
+	height: 100px;
+}
+
+.control_form input[type="submit"]{
+	background-color: #0C2C73;
+}
+
+.redes_sociales_header{
+	float: right;
+	margin-top: -10px;
+}
+
+.redes_sociales_header span{
+	display: block;
+	margin-bottom: 5px;
+}
+
+.redes_sociales_header .uno{
+	float: right;
+	width: 35px;
+	margin-right: 2px;
+}
+
+.redes_sociales_header .dos{
+	float: right;
+	width: 35px;
+}
+
+
+.ver_todas{
+	float: right;
+}
+
+.ver_todas i{
+	margin-right: 5px;
+}
+
+.ver_todas a{
+	float: right;
+    border: 1px solid #FBCC03;
+    padding: 5px;
+    margin-top: -20px;
+    color: #0c2c73;
+}
+
+.grupo_campo_formulario{
+	float: left;
+    width: 40%;
+    margin-bottom: 20px;
+    margin-right: 30px;
+}
+
+.grupo_campo_formulario2{
+	float: left;
+    width: 80%;
+    margin-bottom: 20px;
+    margin-right: 30px;
+}
+
+
+
+.grupo_campo_formulario3{
+	float: left;
+    width: 40%;
+    margin-bottom: 10px;
+}
+
+
+.grupo_campo_formulario p{
+	margin-bottom: 0px;
+}
+
+.grupo_campo_formulario label{
+	font-family: 'Open Sans';
+    font-weight: normal;
+    color: #115623;
+    font-size: 16px;	
+}
+
+.grupo_campo_formulario2 label.subetiqueta{
+	font-family: 'Open Sans';
+    font-weight: normal;
+    color: #313131;
+    font-size: 14px;	
+}
+
+
+.grupo_campo_formulario2 label{
+	font-family: 'Open Sans';
+    font-weight: normal;
+    color: #115623;
+    font-size: 16px;	
+}
+
+
+
+
+.grupo_campo_formulario .campo_formulario select{
+	width: 100%;
+}
+
+.grupo_campo_formulario .campo_formulario select.subetiqueta{
+	float:left;
+}
+
+.grupo_campo_formulario .campo_formulario input[type="text"]{
+	width: 100%;
+}
+
+.grupo_campo_formulario .campo_formulario input[type="email"]{
+	width: 100%;
+}
+
+.grupo_campo_formulario .campo_formulario input[type="date"]{
+	width: 100%;
+	line-height: 33px;
+}
+
+.grupo_campo_formulario .campo_formulario textarea{
+	width: 100%;
+	border: 1px solid #dadada;
+	height: 100px;
+}
+
+
+.grupo_campo_formulario4 input[type="submit"]{
+	background-color: #115623;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 40px;
+}
+
+h3.form_postulacion{
+	color: #115623;
+	margin-bottom: 20px;
+}
+
+
+.grupo_campo_formulario4 {
+    width: 80%;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    text-align: center;
+}
+
+
+
+a.btn_postulacion img {
+    margin-top: 15px;
+}
+
+
+.share-post .menu-social-icons  .lastItem{
+	display: none;
+}
+
+
+.page-id-2436 .evento_item{
+	width: 48%;
+    float: left;
+    margin-right: 20px;
+}
+
+
+@media (max-width: 768px) {
+		.evento_item .derecha {
+		    width: 160px;
+		}
+
+		.grupo_campo_formulario {
+	    	width: 100%;
+		}
+
+		.grupo_campo_formulario3 {
+	    	width: 100%;
+		}
+
+		.grupo_campo_formulario2 {
+	    	width: 100%;
+		}
+
+		.campo_formulario3 input{
+			width: 100%;
+		}
+
+		.campo_formulario2 input{
+			width: 100%;
+		}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
