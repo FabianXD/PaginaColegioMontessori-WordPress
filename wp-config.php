@@ -16,6 +16,7 @@
 
 // ** Ajustes de MySQL. Solicita estos datos a tu proveedor de alojamiento web. ** //
 /** El nombre de tu base de datos de WordPress */
+<<<<<<< HEAD
 define('DB_NAME', 'colegio_07');
 
 /** Tu nombre de usuario de MySQL */
@@ -29,6 +30,21 @@ define('DB_HOST', 'localhost');
 
 /** Codificación de caracteres para la base de datos. */
 define('DB_CHARSET', 'utf8mb4');
+=======
+define('DB_NAME', 'colegio_07');
+
+/** Tu nombre de usuario de MySQL */
+define('DB_USER', 'root');
+
+/** Tu contraseña de MySQL */
+define('DB_PASSWORD', '');
+
+/** Host de MySQL (es muy probable que no necesites cambiarlo) */
+define('DB_HOST', 'localhost');
+
+/** Codificación de caracteres para la base de datos. */
+define('DB_CHARSET', 'utf8mb4');
+>>>>>>> 346bd8b3235fd1f0e3383a025b869249a7a67440
 
 /** Cotejamiento de la base de datos. No lo modifiques si tienes dudas. */
 define('DB_COLLATE', '');
@@ -42,6 +58,7 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
+<<<<<<< HEAD
 define('AUTH_KEY', '8+PQ6@(ganL#4K7Xf7t/]X%NZWW^LhsX7zHt0n1$ZA?aw0vWp<;o!p2BNpFmQyb8');
 define('SECURE_AUTH_KEY', '2~J$ufXkRtj|$)h@2cKr1crnF=J~VENGrw^3Fuk76y%2~5dG-)9s$!]22Bo^aB;*');
 define('LOGGED_IN_KEY', 'dhHG`Nns$lt3{a:tJ:gJ}a=b^fPX0UrmKglQm~82%y~DIU(eXr#*siI+FVHX!5XV');
@@ -50,6 +67,16 @@ define('AUTH_SALT', 'h}FS0PV9nHkp7v+M6)Gi?`|*+./]uE9ZJGf=(C!A&)h45xjooVwKKvA!hAS
 define('SECURE_AUTH_SALT', 'b9rch) cWY/R&giCo6cQ`$E_{X-ZQRUI_/HNewDLK8NsX`O!^!+`c7uaLsG#~SV(');
 define('LOGGED_IN_SALT', 'P;&nM$hpG{o?:1/G_$u[>c^qdPWI,{wV8?`MQyAh3XT+hYQ3h8kV{J/xejuzTl|#');
 define('NONCE_SALT', '?Ame$TnYk8WO~ z401?yEpNPl_fK3A=JyP;J[XwIv-%4~PJF;5o<X[3-G:p+ H|2');
+=======
+define('AUTH_KEY', '8+PQ6@(ganL#4K7Xf7t/]X%NZWW^LhsX7zHt0n1$ZA?aw0vWp<;o!p2BNpFmQyb8');
+define('SECURE_AUTH_KEY', '2~J$ufXkRtj|$)h@2cKr1crnF=J~VENGrw^3Fuk76y%2~5dG-)9s$!]22Bo^aB;*');
+define('LOGGED_IN_KEY', 'dhHG`Nns$lt3{a:tJ:gJ}a=b^fPX0UrmKglQm~82%y~DIU(eXr#*siI+FVHX!5XV');
+define('NONCE_KEY', 'R_hbB/dto@1|=1H .n+QTLnIVb:zxR40/46}DThr|Oo({^.3| btV5GMSL+|u:F0');
+define('AUTH_SALT', 'h}FS0PV9nHkp7v+M6)Gi?`|*+./]uE9ZJGf=(C!A&)h45xjooVwKKvA!hASoQ^Tf');
+define('SECURE_AUTH_SALT', 'b9rch) cWY/R&giCo6cQ`$E_{X-ZQRUI_/HNewDLK8NsX`O!^!+`c7uaLsG#~SV(');
+define('LOGGED_IN_SALT', 'P;&nM$hpG{o?:1/G_$u[>c^qdPWI,{wV8?`MQyAh3XT+hYQ3h8kV{J/xejuzTl|#');
+define('NONCE_SALT', '?Ame$TnYk8WO~ z401?yEpNPl_fK3A=JyP;J[XwIv-%4~PJF;5o<X[3-G:p+ H|2');
+>>>>>>> 346bd8b3235fd1f0e3383a025b869249a7a67440
 
 /**#@-*/
 
@@ -59,7 +86,11 @@ define('NONCE_SALT', '?Ame$TnYk8WO~ z401?yEpNPl_fK3A=JyP;J[XwIv-%4~PJF;5o<X[3-G:
  * Cambia el prefijo si deseas instalar multiples blogs en una sola base de datos.
  * Emplea solo números, letras y guión bajo.
  */
+<<<<<<< HEAD
 $table_prefix  = 'wp_';
+=======
+$table_prefix  = 'wp_';
+>>>>>>> 346bd8b3235fd1f0e3383a025b869249a7a67440
 
 
 /**
